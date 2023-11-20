@@ -1,3 +1,3 @@
 # parschackse
 
-Simple package to retrieve Chess results from tournaments/rounds/matches at member.schack.se
+Simple package to retrieve and parse chess results from tournaments/rounds/matches at member.schack.se
